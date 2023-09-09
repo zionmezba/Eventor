@@ -26,7 +26,7 @@
 		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Our goal</a>
 		            </div>
 		          </div>
-		          <div class="col-md-12 d-flex align-items-center">
+		          <div class="col-md-12 d-flex align-items-center"> 
 		            
 		            <div class="tab-content ftco-animate" id="v-pills-tabContent">
 
